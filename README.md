@@ -1,5 +1,5 @@
 # Online News Popularity Regression
-This repository contains a comprehensive analysis of Online News Popularity Regression, based on the data provided. It encompasses all the requisite stages of a Machine Learning approach to classification problems, culminating in the selection of the optimal final model. A variety of non-linear models, meticulously chosen for this specific problem, have been assessed through a rigorous validation process to ensure their effectiveness in addressing this particular challenge. 
+This repository contains a comprehensive analysis of Online News Popularity Regression, based on the data provided. It encompasses all the requisite stages of a Machine Learning approach to classification problems, culminating in the selection of the optimal final model. A variety of linear models, meticulously chosen for this specific problem, have been assessed through a rigorous validation process to ensure their effectiveness in addressing this particular challenge. 
 
 ## Database
 Link to the website offering this public database: [Online News Popularity Database](https://archive.ics.uci.edu/dataset/332/online+news+popularity)  
